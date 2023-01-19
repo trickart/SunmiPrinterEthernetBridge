@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SunmiPrinterEthernetBridge</string>
+    <string name="ip_address_text">IP Address: %1$s</string>
+</resources>
